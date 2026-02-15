@@ -8,9 +8,9 @@
 <p> 
   School work<br>
 
-  Schoolwork is what students need to learn<br>
-  [Boy doing work](https://3798961.fs1.hubspotusercontent-na1.net/hubfs/3798961/school%20work-1.jpg
-
+  Schoolwork is what students need to learn<br> 
+  ![Kids doing school work] 
+  
   ![Boy Sleeping](454790815.jpg) 
 
 
