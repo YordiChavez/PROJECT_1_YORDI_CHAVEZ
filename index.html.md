@@ -1,5 +1,5 @@
 <head>
-<title>##School work</title>
+School work
 <link href="style.css" rel="stylesheet" />
 </head>
 
@@ -9,7 +9,7 @@
   School work<br>
 
   School work is what students need to learn<br> 
-  ![Kids doing school work](KidsDoingSchoolwork.jpg)
+  ![Kids doing school work](IDEA120/KidsDoingSchoolwork.jpg)
 
   School work is very tiring and causes students to sleep
   
@@ -18,11 +18,11 @@
   School work is challenging and students often need help<br>
 
   
-  ![Help](Help.jpg)
+  ![Help](IDEA120/Help.jpg)
 
   School work can be very fullfilling after being completed
 
-  ![Checklist](Checklist.webp)
+  ![Checklist](IDEA120/Checklist.webp)
   
 </body>
  
