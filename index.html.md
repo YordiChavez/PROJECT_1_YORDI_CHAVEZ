@@ -8,12 +8,21 @@
 <p> 
   School work<br>
 
-  Schoolwork is what students need to learn<br> 
-  ![Kids doing school work] 
+  School work is what students need to learn<br> 
+  ![Kids doing school work](KidsDoingSchoolwork.jpg)
+
+  School work is very tiring and causes students to sleep
   
   ![Boy Sleeping](454790815.jpg) 
 
+  School work is challenging and students often need help<br>
 
-  [Boy asleep](https://thebookchambersite.com/wp-content/uploads/2022/09/454790815.jpg)
+  
+  ![Help](Help.jpg)
+
+  School work can be very fullfilling after being completed
+
+  ![Checklist](Checklist.webp)
+  
 </body>
  
